@@ -1,0 +1,21 @@
+{
+    "name": "Lilo Search",
+    "description": "Change your search engine to Lilo.org",
+    "version": "1.0",
+    "manifest_version": 3,
+    "chrome_settings_overrides": {
+        "search_provider": {
+          "encoding": "UTF-8",
+          "favicon_url": "https://www.lilo.org/wp-content/themes/jarvis_wp/ajans/assets/favicon.ico",
+          "is_default": true,
+          "keyword": "search.lilo.org",
+          "name": "Lilo Search",
+          "prepopulated_id": 100,
+          "search_url": "https://search.lilo.org/?q={searchTerms}",
+          "suggest_url": "https://search.lilo.org/api/?service=suggestions&action=suggest&l=fr&q={searchTerms}&type=list"
+        }
+    },
+    "icons": {
+        "96": "icon.png"
+    }
+}
