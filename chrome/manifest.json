@@ -12,7 +12,7 @@
           "name": "Lilo Search",
           "prepopulated_id": 100,
           "search_url": "https://search.lilo.org/?q={searchTerms}",
-          "suggest_url": "https://search.lilo.org/api/?service=suggestions&action=suggest&l=fr&q={searchTerms}&type=list"
+          "suggest_url": "https://search.lilo.org/api/?service=suggestions&action=suggest&l=fr&q={searchTerms}&f=chr"
         }
     },
     "icons": {
