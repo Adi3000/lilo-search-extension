@@ -8,7 +8,7 @@
           "encoding": "UTF-8",
           "favicon_url": "https://www.lilo.org/wp-content/themes/jarvis_wp/ajans/assets/favicon.ico",
           "is_default": true,
-          "keyword": "search.lilo.org",
+          "keyword": "lilo",
           "name": "Lilo Search",
           "prepopulated_id": 100,
           "search_url": "https://search.lilo.org/?q={searchTerms}",
